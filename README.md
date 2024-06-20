@@ -1,6 +1,6 @@
 MIAMI
 ================
-Souvik Seal and Debashis Ghosh
+This is a copy of Souvik Seal and Debashis Ghosh's MIAMI implementation
 
 This is an R package implementing the proposed method from the paper,
 “MIAMI: Mutual Information-based Analysis of Multiplex Imaging data”.
